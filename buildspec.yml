@@ -10,4 +10,5 @@ phases:
       - echo Build completed on `date`
 artifacts:
   files:
+    - MyApp
   discard-paths: yes
